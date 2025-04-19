@@ -1,12 +1,17 @@
-console.log('JavaScript betöltődött');
-
-function loadHTML(id, file) {
-    fetch(file)
+function loadHTML() {
+    fetch('header.html')
         .then(response => response.text())
-        .then(data => document.getElementById(id).innerHTML = data);
+        .then(data => {
+            document.querySelector('header').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading header:', error));
+
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(data => {
+            document.querySelector('footer').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading footer:', error));
 }
 
-window.onload = () => {
-    loadHTML("header", "header.html");  // Betölti a header-t
-    loadHTML("footer", "footer.html");  // Betölti a footer-t
-};
+window.onload = loadHTML;
