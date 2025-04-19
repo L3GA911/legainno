@@ -1,4 +1,4 @@
 /* _config.yml */
 title: LegaInno
-baseurl: "/legainno" # GitHub Pages gyökérre
+baseurl: "" # GitHub Pages gyökérre
 url: "https://www.legainno.hu" # Cseréld le saját URL-edre
