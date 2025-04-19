@@ -8,11 +8,11 @@
 </head>
 <body>
   <div class="container">
-    {% include header.html %}
-    <main>
-      {{ content }}
-    </main>
-    {% include footer.html %}
+    {% include_relative ../_includes/header.html %}
+      <main>
+        {{ content }}
+      </main>
+    {% include_relative ../_includes/footer.html %}
   </div>
 </body>
 </html>
