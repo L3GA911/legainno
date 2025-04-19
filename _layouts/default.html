@@ -4,15 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | LegaInno</title>
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 <body>
   <div class="container">
-    {% include ../_layouts/header.html %}
+    {% include header.html %}
     <main>
       {{ content }}
     </main>
-    {% include ../_layouts/footer.html %}
+    {% include footer.html %}
   </div>
 </body>
 </html>
