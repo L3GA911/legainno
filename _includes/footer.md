@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; 2025 LegaInno. All rights reserved.</p>
+    <p>&copy; 2025 <span>LegaInno</span>. Minden jog fenntartva.</p>
 </footer>

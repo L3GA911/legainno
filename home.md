@@ -3,6 +3,19 @@ layout: default
 title: Home
 permalink: /home/
 ---
-
-<h2>Welcome to LegaInno</h2>
-<p>Your one-stop solution for all legal needs.</p>
+<div class="zigzag">
+    <h1>Ötletekből megoldás</h1>
+    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+</div>
+<div class="zigzag">
+    <h1>Ötletekből megoldás</h1>
+    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+</div>
+<div class="zigzag">
+    <h1>Ötletekből megoldás</h1>
+    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+</div>
+<div class="zigzag">
+    <h1>Ötletekből megoldás</h1>
+    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+</div>

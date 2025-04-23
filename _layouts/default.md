@@ -10,9 +10,12 @@
   <div class="container">
     {% include header.md %}
       <main>
-        {{ content }}
+        <div class="mainWrapper">
+          {{ content }}
+        </div>
       </main>
     {% include footer.md %}
   </div>
+<script src="../script.js"></script>
 </body>
 </html>

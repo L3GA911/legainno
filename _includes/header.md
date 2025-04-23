@@ -1,6 +1,8 @@
 <header>
     <div class="navbar">
-      <h1>LegaInno</h1>
+      <div class="logo">
+        <img src="../img/logo.svg" alt="Company Logo" class="logo-image">
+      </div>
       <nav>
         <a href="/home" class="{% if page.url == '/home/' %}active{% endif %}">Bemutatkozás</a>
         <a href="/referenciak" class="{% if page.url == '/referenciak/' %}active{% endif %}">Referenciák</a>
