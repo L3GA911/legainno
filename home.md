@@ -1,21 +1,208 @@
 ---
 layout: default
-title: Home
+title: Kezdőlap
 permalink: /home/
 ---
-<div class="zigzag">
-    <h1>Ötletekből megoldás</h1>
-    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+<div class="boxContainerLighter noPadding">
+    <section class="hero-section">
+        <div class="hero-content">
+          <h1 data-aos="fade-right">LegaInno</h1>
+          <p data-aos="fade-right" data-aos-delay="200">Modern weboldalak, hatékony webshopok és igényes grafikai megoldások</p>
+        </div>
+        <div data-aos="fade-right" data-aos-delay="400">
+            <a href="#contact" class="button noMargin">
+                <span>Lépj velem kapcsolatba</span>
+                <i data-lucide="headset" class="icon"></i>
+            </a>
+        </div>
+    </section>
 </div>
-<div class="zigzag">
-    <h1>Ötletekből megoldás</h1>
-    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+<div class="boxContainerDarker">
+    <div class="boxTitle2 mainText" data-aos="fade-right" data-aos-delay="200">
+        <h1>Szolgáltatások</h1>
+    </div>
+    <div class="boxContainer_2">
+        <div data-aos="fade-right" data-aos-delay="400">
+            <div class="box boxHome">
+                <div class="circle">
+                    <i data-lucide="code" class="icon"></i>
+                </div>
+                <p>Weboldal készítés</p>
+            </div>
+        </div>
+        <div data-aos="fade-right">
+            <div class="box boxHome">
+                <div class="circle">
+                    <i data-lucide="shopping-basket" class="icon"></i>
+                </div>
+                <p>Webshop készítés</p>
+            </div>
+        </div>
+        <div data-aos="fade-right" data-aos-delay="600">
+            <div class="box boxHome">
+                <div class="circle">
+                    <i data-lucide="pen-tool" class="icon"></i>
+                </div>
+                <p>Grafikai munkák</p>
+            </div>
+        </div>
+        <div data-aos="fade-right" data-aos-delay="200">
+            <div class="box boxHome">
+                <div class="circle">
+                    <i data-lucide="construction" class="icon"></i>
+                </div>
+                <p>Üzemeltetés, karbantartás</p>
+            </div>
+        </div>
+    </div>
+    <div data-aos="fade-right"  data-aos-delay="200">
+        <a href="#contact" class="button">
+            <span>Dolgozzunk együtt</span>
+            <i data-lucide="briefcase-business" class="icon"></i>
+        </a>
+    </div>
 </div>
-<div class="zigzag">
-    <h1>Ötletekből megoldás</h1>
-    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
+<div class="boxContainerLighter">
+    <div class="boxTitle1 mainText2" data-aos="fade-right" data-aos-delay="200">
+        <h1>Legutóbbi munkám</h1>
+    </div>
+    <div class="refBox" data-aos="fade-right" data-aos-delay="300">
+        <div>
+            <img src="..\img/mockup_buk.png" class="refBoxImg"/>
+        </div>
+        <div>
+            <span class="refBoxTitle">Büki Művelődési és Sportközpont, Könyvtár</span>
+            <p>www.bukmsk.hu</p>
+        </div>
+    </div>
+    <div data-aos="fade-right">
+        <a href="#contact" class="button">
+            <span>Dolgozzunk együtt</span>
+            <i data-lucide="briefcase-business" class="icon"></i>
+        </a>
+    </div>
 </div>
-<div class="zigzag">
-    <h1>Ötletekből megoldás</h1>
-    <p>Építünk, fejlesztünk, tervezünk – mindent, amitől egy ötlet valósággá válik.</p>
-</div>
+<div class="boxContainerDarker mT-4">
+    <div class="boxTitle2 mainText" data-aos="fade-right" data-aos-delay="200">
+      <h1>Miért érdemes velem dolgozni?</h1>
+    </div>
+    <section class="why-work-with-me">
+        <div class="benefits-grid">
+            <div data-aos="fade-right" data-aos-delay="200">          
+                <div class="benefit-item">
+                    <span class="icon">🔧</span>
+                    <h3>Minőség, ami tükrözi a színvonalad</h3>
+                    <p>Olyan weboldalt készítek, ami méltó a vállalkozásodhoz, és profizmust sugároz.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="300">
+                <div class="benefit-item">
+                    <span class="icon">🚀</span>
+                    <h3>Trendkövető, friss szemlélet</h3>
+                    <p>Folyamatosan fejlesztem magam, naprakész vagyok a modern webdesign trendekkel.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="400">
+                <div class="benefit-item">
+                    <span class="icon">🎯</span>
+                    <h3>Marketing-fókuszú megközelítés</h3>
+                    <p>Nemcsak szép, hanem célratörő és hatékony weboldalakat tervezek.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="500">
+                <div class="benefit-item">
+                    <span class="icon">🛠️</span>
+                    <h3>Komplett kivitelezés egy kézből</h3>
+                    <p>Weboldal, webshop, grafika — mindent kapsz egy helyen, egy szakértőtől.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="600">
+                <div class="benefit-item">
+                    <span class="icon">📞</span>
+                    <h3>Közvetlen és érthető kommunikáció</h3>
+                    <p>Nem kell szakszavaktól tartanod, mindenről világosan és elérhetően egyeztetünk.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="700">
+                <div class="benefit-item">
+                    <span class="icon">🧩</span>
+                    <h3>Utógondozás és támogatás</h3>
+                    <p>Nem engedem el a kezed: karbantartás, frissítés és tartalomfeltöltés is megoldható hosszú távon.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="800">
+                <div class="benefit-item">
+                    <span class="icon">⏱️</span>
+                    <h3>Gyors és megbízható kivitelezés</h3>
+                    <p>Tartom a határidőket, és nem kell hónapokat várnod az elkészült weboldalra.</p>
+                </div>
+            </div>
+            <div data-aos="fade-right" data-aos-delay="900">
+                <div class="benefit-item">
+                    <span class="icon">🤝</span>
+                    <h3>A te projekted az én projektem is</h3>
+                    <p>Maximálisan elkötelezett vagyok, és a tökéletes végeredményre törekszem.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div data-aos="fade-right">
+        <a href="#contact" class="button">
+            <span>Dolgozzunk együtt</span>
+            <i data-lucide="briefcase-business" class="icon"></i>
+        </a>
+    </div>
+  </div>
+<div class="boxContainerLighter">
+    <div class="boxTitle1 mainText2" data-aos="fade-right" data-aos-delay="200">
+        <h1>A közös munka folymata</h1>
+    </div>
+    <section class="timeLineContainer">
+        <div class="timeLineContainerLine" data-aos="fade" data-aos-delay="600"></div>
+        <div class="timeline-item" data-aos="fade-left" data-aos-delay="300">
+            <div class="timeline-content">
+                <h3>Szerződés</h3>
+                <p>Abban az esetben, ha megtisztelsz azzal, hogy szakmai tudásomra bízod leendő projektedet át is térhetünk a hivatalos dolgokra. A szerződés aláírása után kérem el a munkadíj teljes összegének a felét. </p>
+            </div>
+            <div class="timeline-item-circle">
+                <i data-lucide="handshake" class="icon"></i>
+            </div>
+        </div>
+        <div class="timeline-item" data-aos="fade-left" data-aos-delay="400">
+            <div class="timeline-content">
+                <h3>Szövegek, képek bekérése</h3>
+                <p>Ebben a szakaszban tőled kérem be azokat a szövegeket és képeket, amelyeket a weboldalon szeretnél megjeleníteni. A cél, hogy a tartalom minél inkább személyre szabott és a te céljaidhoz illeszkedő legyen. Amennyiben szeretnéd, a szövegírást is rám bízhatod — ebben az esetben én fogalmazom meg a tartalmat. A képekhez jogtiszta, ingyenes stock fotókat is használhatunk.</p>
+            </div>
+            <div class="timeline-item-circle">
+                <i data-lucide="image-down" class="icon"></i>
+            </div>
+        </div>
+        <div class="timeline-item" data-aos="fade-left" data-aos-delay="500">
+            <div class="timeline-content">
+                <h3>Design meghatározása</h3>
+                <p>Következő lépésként együtt alakítjuk ki az arculati elemeket. Színek, betűtípusok, és egyéb dizájnelemek segítségével egyedi arculatot hozunk létre a weboldalad számára.</p>
+            </div>
+            <div class="timeline-item-circle">
+                <i data-lucide="swatch-book" class="icon"></i>
+            </div>
+        </div>
+        <div class="timeline-item" data-aos="fade-left" data-aos-delay="600">
+            <div class="timeline-content">
+                <h3>Weboldal Építés, Tesztelés</h3>
+                <p>Miután rendelkezem a szükséges tartalommal és designnal, elkezdem felépíteni a weboldalt. Az építés során rendszeresen tesztelem az oldalt, hogy biztos legyek a megfelelő működésről. Ezt a folyamatot Te is végig követheted, és 3 körben módosítást kérhetsz a kinézetet illetően.</p>
+            </div>
+            <div class="timeline-item-circle">
+                <i data-lucide="code" class="icon"></i>
+            </div>
+        </div>
+        <div class="timeline-item" data-aos="fade-left" data-aos-delay="500">
+            <div class="timeline-content">
+                <h3>Költöztetés, átadás</h3>
+                <p>Végül, amikor mindennel kész vagyok és elégedett vagy a végeredménnyel, átadom neked a weboldalt. A Te tárhelyedre való költöztetés előtt kérem el a fennmaradó összeget. Ezután tudod terjeszteni, használni és élvezni az új weboldalad</p>
+            </div>
+            <div class="timeline-item-circle">
+                <i data-lucide="check" class="icon"></i>
+            </div>
+        </div>
+    </section>
+</div>  
