@@ -1,83 +1,91 @@
 <div class="accordionsContainer" data-aos="fade-right" data-aos-delay="200">
     <div class="accordion">
         <div class="accordion-header">
-        <span>Mennyi idő alatt készül el a weboldalam?</span>
-        <span class="plus-icon">+</span>
+            <span>Mikorra készül el a weboldalam?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Projekttől függgően lehet pár hét és több hónap is, de általában 6-8 hét alatt elkészül. A munka megkezdése előtt meghatározzuk a határidőket.
+            A projekt összetettségétől függően a fejlesztés néhány héttől akár több hónapig is tarthat, de jellemzően 6–8 hét alatt végzünk. A munka indulásakor közösen rögzítjük a pontos határidőket.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Mikor tudsz nekiállni a munkának?</span>
-        <span class="plus-icon">+</span>
+            <span>Mikor tudsz elkezdeni dolgozni rajta?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Ez függ a naptáram telítettségétől és rajtad is áll. Érdemes már hetekkel, akár hónapokkal a munka megkezdése előtt elkezdeni a tervezést, hiszen neked is sok feladatod lesz, mint pl. a szöveges és képi tartalom előállítása és a jogi dokumentumok beszerzése.
+            Ez a naptáram telítettségétől és a te felkészültségedtől is függ. Érdemes már hetekkel, akár hónapokkal korábban belevágni a tervezésbe, mert neked is lesz feladatod – például a szöveges és képi tartalmak, valamint a jogi dokumentumok előkészítése.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>A domain és tárhely díja is benne van a csomagban?</span>
-        <span class="plus-icon">+</span>
+            <span>Tartalmazzák a csomagok a domain- és tárhelydíjat?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            A csomagok nem tartalmazzák a domain és tárhely díját. Tárhelyszolgáltatót és csomagot is tudok ajánlani és ha kell, segítek az ügyintézésben. 
+            A csomagok nem foglalják magukban a domain- és tárhelyköltségeket. Szívesen ajánlok megbízható szolgáltatókat, és igény esetén az ügyintézésben is segítek.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Egyik csomag sem az igazi számomra. Kérhetek egyedi ajánlatot?</span>
-        <span class="plus-icon">+</span>
+            <span>Nem találok megfelelő csomagot. Kaphatok egyedi ajánlatot?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Persze! A csomagok iránymutatásra szolgálnak. Minden projekt egyedi, így  személyre szabott, részletes árajánlatot adok mindenkinek. 
+            Természetesen! A csomagok csak kiindulópontok – minden projekt egyedi, ezért részletes, személyre szabott árajánlatot készítek.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Milyen jogi dokumentumokra van szükség?</span>
-        <span class="plus-icon">+</span>
+            <span>Milyen jogi dokumentumokra lesz szükség?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Minden weboldal kötelező eleme az Adatkezelési Tájékoztató. Webshopoknak pedig emellett az Általános Szerződési Feltételek. Ezek beszerzése az ügyfél feladata, a tartalmukért nem vállalom a felelősséget, az én feladatom a feltöltés. Az internetes sablonokat nem ajánlom, szakember bevonását javaslom. Adatvédelmi szakértőt tudok ajánlani.
+            Minden weboldal kötelező eleme az Adatkezelési Tájékoztató, webshop esetén pedig az Általános Szerződési Feltételek is. Ezek beszerzése az ügyfél feladata; a tartalomért nem vállalok felelősséget, én a feltöltést intézem. Az interneten fellelhető sablonokat nem javaslom – érdemes adatvédelmi szakértőt bevonni, akit szívesen ajánlok.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Milyen képekre van szükség?</span>
-        <span class="plus-icon">+</span>
+            <span>Milyen fotókra lesz szükség?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            A képek esetében követelmény a kiváló minőség és megfelelő felbontás. Telefonnal készített képek amatőr hatást keltenek. Ingyenes stock fotókat tudok én is biztosítani, de ha saját magadról, termékeidről szeretnél fényképeket, akkor mindenképp keress fel egy profi fotóst. Szakembert tudok ajánlani.
+            A képeknek nagy felbontásúak és kiváló minőségűeknek kell lenniük; a telefonnal készült fotók gyakran amatőr hatást keltenek. Tudok ingyenes stockfotókat biztosítani, de ha saját vagy termékfotókra van szükséged, mindenképp javaslom profi fotós felkeresését – szakembert is tudok ajánlani.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Tudom majd utólag szerkeszteni a weboldalam?</span>
-        <span class="plus-icon">+</span>
+            <span>Szerkeszthetem később a weboldalamat?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Igen, ha te szeretnéd szerkeszteni a szövegeket és képi tartalmakat, akkor az admin felület bemutatásakor ezeket a folyamatokat is megmutatom, illetve részletes pdf útmutatókat is küldök. 
+            Igen. Ha szeretnéd saját magad frissíteni a szövegeket és képeket, az adminfelület bemutatásakor részletesen megmutatom a szükséges lépéseket, és pdf-es útmutatót is küldök.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Nem szeretnék foglalkozni a weboldal szerkesztésével. Megbízhatlak ezzel is?</span>
-        <span class="plus-icon">+</span>
+            <span>Rád bízhatom a weboldal frissítését és tartalomfeltöltését?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Természetesen hosszú távon is együtt dolgozhatunk. Vállalom oldalad tartalomfeltöltését, aminek óradíjas árazása 8 ezer ft. Designmódosítás egyedi árazású. 
+            Természetesen. Hosszú távon is vállalom a tartalomfeltöltést, óradíjam 8 000 Ft. Design-módosítás esetén egyedi árazást alkalmazok.
         </div>
     </div>
+
     <div class="accordion">
         <div class="accordion-header">
-        <span>Weboldal karbantartással is foglalkozol?</span>
-        <span class="plus-icon">+</span>
+            <span>Vállalsz weboldal-karbantartást is?</span>
+            <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            Igen, a havi karbantartás csomag tartalmazza a frissítéseket, biztonsági mentéseket, adatbázis optimalizálást, technikai ellenőrzéseket. Díja 8 ezer ft havi számlázással és 80 ezer forint éves számlázással.  
+            Igen. A havi karbantartási csomag tartalmazza a frissítéseket, biztonsági mentéseket, adatbázis-optimalizálást és technikai ellenőrzéseket. Díja 8 000 Ft havonta vagy 80 000 Ft évente.
         </div>
     </div>
 </div>
