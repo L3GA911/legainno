@@ -62,7 +62,7 @@ permalink: /ajanlatok/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
@@ -137,7 +137,7 @@ permalink: /ajanlatok/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
@@ -170,7 +170,7 @@ permalink: /ajanlatok/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
@@ -213,7 +213,7 @@ permalink: /ajanlatok/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>

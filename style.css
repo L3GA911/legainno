@@ -653,7 +653,7 @@ margin-top: 3rem;
   .accordion.open .plus-icon {
     transform: rotate(45deg);
   }
-  .impresszum{
+  .impresszum, .adatvedelem {
     margin: 3rem 0 0 5rem;
     display: flex;
     flex-direction: column;
@@ -661,6 +661,35 @@ margin-top: 3rem;
     width: 100%;
     max-width: 1200px;
   }
+  .adatvedelem h2{
+    margin-bottom: 1.6rem;
+  }
+  .adatvedelem ul {
+    list-style-type: none;
+    margin: 1rem;
+    text-align: left;
+}
+
+.adatvedelem ul li {
+    display: flex; 
+    align-items: center; 
+    margin-left: 0;  
+    gap: 0.5rem; 
+}
+
+.adatvedelem ul li:not(:last-child) {
+    margin-bottom: 0.5rem; 
+}
+
+.adatvedelem ul li::before {
+    content: "";
+    width: 20px;
+    aspect-ratio: 1/1;
+    background: url(img/circle-chevron-right.svg) no-repeat center center;
+    background-size: 100%;
+    color: #3B3B3B;
+}
+
 
 /***** Hero Section Styles ***/
 .hero-section {

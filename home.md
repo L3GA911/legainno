@@ -10,7 +10,7 @@ permalink: /home/
           <p data-aos="fade-right" data-aos-delay="200">Modern weboldalak, hatékony webshopok és igényes grafikai megoldások</p>
         </div>
         <div data-aos="fade-right" data-aos-delay="400">
-            <a href="#contact" class="button noMargin">
+            <a href="../kapcsolat" class="button noMargin">
                 <span>Lépj velem kapcsolatba</span>
                 <i data-lucide="headset" class="icon"></i>
             </a>
@@ -56,8 +56,8 @@ permalink: /home/
         </div>
     </div>
     <div data-aos="fade-right"  data-aos-delay="200">
-        <a href="#contact" class="button">
-            <span>Dolgozzunk együtt</span>
+        <a href="../ajanlatok" class="button">
+            <span>Árajánlatok</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
     </div>
@@ -76,7 +76,7 @@ permalink: /home/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
@@ -147,7 +147,7 @@ permalink: /home/
         </div>
     </section>
     <div data-aos="fade-right">
-        <a href="#contact" class="button">
+        <a href="../kapcsolat" class="button">
             <span>Dolgozzunk együtt</span>
             <i data-lucide="briefcase-business" class="icon"></i>
         </a>
