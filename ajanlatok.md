@@ -29,7 +29,7 @@ permalink: /ajanlatok/
         </div>
         <div class="box" data-aos="fade-right" data-aos-delay="400">
             <h3>Haladó</h3>
-            <p>A csomag árkategóriájában már egy komolyabb online jelenlétet kínálunk, amely több oldalt és a látogatói élmény fokozása érdekében optimalizált SEO-t biztosít.</p>
+            <p>A csomag árkategóriájában már egy komolyabb online jelenlétet kínál, amely több oldalt és a látogatói élmény fokozása érdekében optimalizált SEO-t biztosít.</p>
             <ul>
                 <li>Előzetes egyeztetés</li>
                 <li>Reszponzív weboldal</li>
@@ -45,7 +45,7 @@ permalink: /ajanlatok/
         </div>
         <div class="box" data-aos="fade-right" data-aos-delay="200">
             <h3>Prémium</h3>
-            <p>A prémium csomagunkkal nemcsak egyedi weboldalt, hanem teljes üzleti megoldást kínálunk, amely webshopot, admin felületet és az üzleti stratégiához illeszkedő személyre szabott funkciókat is tartalmaz.</p>
+            <p>A prémium csomag nemcsak egyedi weboldalt, hanem teljes üzleti megoldást kínál, amely webshopot, admin felületet és az üzleti stratégiához illeszkedő személyre szabott funkciókat is tartalmaz.</p>
             <ul>
                 <li>Előzetes egyeztetés</li>
                 <li>Reszponzív weboldal</li>
@@ -75,7 +75,6 @@ permalink: /ajanlatok/
     <div class="boxContainer_2">
         <div class="box" data-aos="fade-right" data-aos-delay="400">
             <h3>Alap</h3>
-            <p>Letisztult, gyors megoldás - Egyoldalas honlap, landing page - Egyszerű, gyors online jelenlétet biztosít</p>
             <ul>
                 <li>WordPress, WooCommerce bővítménnyel</li>
                 <li>Reszponzív weboldal</li>
@@ -106,7 +105,6 @@ permalink: /ajanlatok/
         </div>
         <div class="box" data-aos="fade-right" data-aos-delay="200">
             <h3>Prémium</h3>
-            <p>A csomag árkategóriájában már egy komolyabb online jelenlétet kínálunk, amely több oldalt és a látogatói élmény fokozása érdekében optimalizált SEO-t biztosít.</p>
             <ul>
                 <li>WordPress, WooCommerce bővítménnyel</li>
                 <li>Reszponzív weboldal</li>

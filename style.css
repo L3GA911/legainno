@@ -18,7 +18,6 @@ body {
     background-color: #f4f4f4;
     font-size: 1.2rem;
     overflow-x: hidden;
-    sc
 }
 
   h1 {
@@ -653,7 +652,7 @@ margin-top: 3rem;
   .accordion.open .plus-icon {
     transform: rotate(45deg);
   }
-  .impresszum, .adatvedelem {
+  .impresszum, .adatvedelem{
     margin: 3rem 0 0 5rem;
     display: flex;
     flex-direction: column;
@@ -661,7 +660,62 @@ margin-top: 3rem;
     width: 100%;
     max-width: 1200px;
   }
-  .adatvedelem h2{
+  .introduction {
+    display: block;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 3rem;
+  }
+  ._404{
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 5rem;
+  }
+  ._404 p:first-child{
+    font-size: 5rem;
+    font-weight: 600;
+  }
+  ._404 p:last-child{
+    font-size: 2rem;
+    font-weight: 300;
+  }
+  
+  .introduction img {
+    float: right;
+    width: 25rem;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    clip-path: circle();
+    shape-outside: circle();
+    border-radius: 50%;
+    margin: 1rem 0 1rem 1rem;
+  }
+  @media screen and (max-width: 768px) {
+    .introduction img {
+        width: 20rem;
+    }
+  }
+  @media screen and (max-width: 580px) {
+    .introduction img {
+        float: none;
+        display: block;
+        shape-outside: none;
+        margin: 0 auto 1rem auto;
+    }
+    .introduction{
+        margin-top: 2rem;
+    }
+  }
+  .introduction p {
+    text-align: justify;
+    line-height: 2;
+  }
+.adatvedelem h2{
     margin-bottom: 1.6rem;
   }
   .adatvedelem ul {
@@ -929,10 +983,10 @@ margin-top: 3rem;
     position: relative;
     width: 100%;
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 .timeline-item:nth-child(even) {
-    justify-content: flex-end;
+    justify-content: flex-start;
 }
 .timeline-content {
     position: relative;

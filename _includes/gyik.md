@@ -55,7 +55,7 @@
             <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
-            A képeknek nagy felbontásúak és kiváló minőségűeknek kell lenniük; a telefonnal készült fotók gyakran amatőr hatást keltenek. Tudok ingyenes stockfotókat biztosítani, de ha saját vagy termékfotókra van szükséged, mindenképp javaslom profi fotós felkeresését – szakembert is tudok ajánlani.
+            A képeknek nagy felbontásúaknak és kiváló minőségűeknek kell lenniük; a telefonnal készült fotók gyakran amatőr hatást keltenek. Tudok ingyenes stockfotókat biztosítani, de ha saját vagy termékfotókra van szükséged, mindenképp javaslom profi fotós felkeresését – szakembert is tudok ajánlani.
         </div>
     </div>
 
@@ -71,7 +71,7 @@
 
     <div class="accordion">
         <div class="accordion-header">
-            <span>Rád bízhatom a weboldal frissítését és tartalomfeltöltését?</span>
+            <span>Rád bízhatom a weboldal frissítését és a tartalomfeltöltését?</span>
             <span class="plus-icon">+</span>
         </div>
         <div class="accordion-content">
