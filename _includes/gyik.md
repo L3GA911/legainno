@@ -78,14 +78,4 @@
             Természetesen. Hosszú távon is vállalom a tartalomfeltöltést, óradíjam 8 000 Ft. Design-módosítás esetén egyedi árazást alkalmazok.
         </div>
     </div>
-
-    <div class="accordion">
-        <div class="accordion-header">
-            <span>Vállalsz weboldal-karbantartást is?</span>
-            <span class="plus-icon">+</span>
-        </div>
-        <div class="accordion-content">
-            Igen. A havi karbantartási csomag tartalmazza a frissítéseket, biztonsági mentéseket, adatbázis-optimalizálást és technikai ellenőrzéseket. Díja 8 000 Ft havonta vagy 80 000 Ft évente.
-        </div>
-    </div>
 </div>

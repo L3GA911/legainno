@@ -9,7 +9,7 @@ permalink: /ajanlatok/
 <div class="boxContainerLighter">
     <div data-aos="fade-right" data-aos-delay="200" class="boxTitle">
         <h2>Weboldal készítés</h2>
-    </div>  
+    </div>
     <div class="boxContainer">
         <div class="box" data-aos="fade-right" data-aos-delay="600">
             <h3>Alap</h3>

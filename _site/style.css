@@ -663,8 +663,8 @@ margin-top: 3rem;
   .introduction {
     display: block;
     max-width: 1200px;
-    margin: 0 auto;
     margin-top: 3rem;
+    padding: 0 2rem;
   }
   ._404{
     width: 100%;
