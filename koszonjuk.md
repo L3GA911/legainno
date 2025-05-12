@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Koszonjuk
+title: Köszönjünk
 permalink: /koszonjuk/
 ---
 <div class="headline">
-    <h1>Köszönjük</h1>
+    <h1>Hamarosan jelentkezünk</h1>
 </div>
