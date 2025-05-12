@@ -653,7 +653,8 @@ margin-top: 3rem;
     transform: rotate(45deg);
   }
   .impresszum, .adatvedelem{
-    margin: 3rem 0 0 5rem;
+    margin-top: 3rem;
+    padding: 0 1rem;
     display: flex;
     flex-direction: column;
     gap: 1rem;
