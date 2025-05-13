@@ -1,3 +1,7 @@
 title: LegaInno
 baseurl: ""
 url: "https://www.legainno.hu"
+description: "LegaInno - Modern weboldalak, hatékony webshopok és igényes grafikai megoldások"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
