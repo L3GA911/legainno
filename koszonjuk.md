@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Köszönjük
+title: Köszönjünk
 permalink: /koszonjuk/
 ---
 <div class="headline">
