@@ -500,7 +500,8 @@ form button:hover {
     border-radius: 12px;
     border-top: 5px solid #717171;
 }
-.boxContainerLighter .box{
+.boxContainerLighter .box,
+.refBox{
     border-top: 5px solid #3B3B3B;
 }
 
