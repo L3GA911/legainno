@@ -498,8 +498,12 @@ form button:hover {
     background: #f9f9f9;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
     border-radius: 12px;
-    border-top: 5px solid #717171 ;
+    border-top: 5px solid #717171;
 }
+.boxContainerLighter .box{
+    border-color: #3B3B3B;
+}
+
 .refBox{
     display: flex;
     gap: 1rem;
