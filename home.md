@@ -76,9 +76,9 @@ permalink: /home/
         </div>
     </div>
     <div data-aos="fade-right">
-        <a href="../kapcsolat" class="button">
-            <span>Dolgozzunk együtt</span>
-            <i data-lucide="briefcase-business" class="icon"></i>
+        <a href="../referenciak" class="button">
+            <span>Referenciák</span>
+            <i data-lucide="book-open-check" class="icon"></i>
         </a>
     </div>
 </div>
