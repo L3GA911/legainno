@@ -58,7 +58,7 @@ permalink: /home/
     <div data-aos="fade-right"  data-aos-delay="200">
         <a href="../ajanlatok" class="button">
             <span>Árajánlatok</span>
-            <i data-lucide="briefcase-business" class="icon"></i>
+            <i data-lucide="badge-percent" class="icon"></i>
         </a>
     </div>
 </div>
