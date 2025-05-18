@@ -49,7 +49,7 @@ permalink: /kapcsolat/
 <div class="socialMedia">
     <div>
         <i class="fas fa-phone"></i>
-        <span>06-70/165-8082</span>
+        <span>06-70/231-3180</span>
     </div>
     <div>
         <i class="fas fa-envelope"></i>
